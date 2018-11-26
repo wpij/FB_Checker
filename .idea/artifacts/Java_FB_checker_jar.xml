@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Java_FB_checker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_FB_checker_jar</output-path>
+    <root id="archive" name="Java_FB_checker.jar">
+      <element id="module-output" name="Java_FB_checker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/twilio-7.31.0-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
